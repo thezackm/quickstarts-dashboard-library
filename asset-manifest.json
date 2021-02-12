@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/quickstarts-alert-library/static/css/main.12df2089.chunk.css",
-    "main.js": "/quickstarts-alert-library/static/js/main.9994bff3.chunk.js",
-    "main.js.map": "/quickstarts-alert-library/static/js/main.9994bff3.chunk.js.map",
-    "runtime-main.js": "/quickstarts-alert-library/static/js/runtime-main.5cf4fcaa.js",
-    "runtime-main.js.map": "/quickstarts-alert-library/static/js/runtime-main.5cf4fcaa.js.map",
-    "static/css/2.5ed022f9.chunk.css": "/quickstarts-alert-library/static/css/2.5ed022f9.chunk.css",
-    "static/js/2.0dc5cf47.chunk.js": "/quickstarts-alert-library/static/js/2.0dc5cf47.chunk.js",
-    "static/js/2.0dc5cf47.chunk.js.map": "/quickstarts-alert-library/static/js/2.0dc5cf47.chunk.js.map",
-    "index.html": "/quickstarts-alert-library/index.html",
-    "precache-manifest.75eea4ea6fd02821528e7ec9eb4b0c78.js": "/quickstarts-alert-library/precache-manifest.75eea4ea6fd02821528e7ec9eb4b0c78.js",
-    "service-worker.js": "/quickstarts-alert-library/service-worker.js",
-    "static/css/2.5ed022f9.chunk.css.map": "/quickstarts-alert-library/static/css/2.5ed022f9.chunk.css.map",
-    "static/css/main.12df2089.chunk.css.map": "/quickstarts-alert-library/static/css/main.12df2089.chunk.css.map",
-    "static/js/2.0dc5cf47.chunk.js.LICENSE.txt": "/quickstarts-alert-library/static/js/2.0dc5cf47.chunk.js.LICENSE.txt"
+    "main.css": "/quickstarts-dashboard-library/static/css/main.12df2089.chunk.css",
+    "main.js": "/quickstarts-dashboard-library/static/js/main.d80babd7.chunk.js",
+    "main.js.map": "/quickstarts-dashboard-library/static/js/main.d80babd7.chunk.js.map",
+    "runtime-main.js": "/quickstarts-dashboard-library/static/js/runtime-main.1b11a42f.js",
+    "runtime-main.js.map": "/quickstarts-dashboard-library/static/js/runtime-main.1b11a42f.js.map",
+    "static/css/2.5ed022f9.chunk.css": "/quickstarts-dashboard-library/static/css/2.5ed022f9.chunk.css",
+    "static/js/2.b5eea9f3.chunk.js": "/quickstarts-dashboard-library/static/js/2.b5eea9f3.chunk.js",
+    "static/js/2.b5eea9f3.chunk.js.map": "/quickstarts-dashboard-library/static/js/2.b5eea9f3.chunk.js.map",
+    "index.html": "/quickstarts-dashboard-library/index.html",
+    "precache-manifest.a91287e62a17f65b2b1757c01808af29.js": "/quickstarts-dashboard-library/precache-manifest.a91287e62a17f65b2b1757c01808af29.js",
+    "service-worker.js": "/quickstarts-dashboard-library/service-worker.js",
+    "static/css/2.5ed022f9.chunk.css.map": "/quickstarts-dashboard-library/static/css/2.5ed022f9.chunk.css.map",
+    "static/css/main.12df2089.chunk.css.map": "/quickstarts-dashboard-library/static/css/main.12df2089.chunk.css.map",
+    "static/js/2.b5eea9f3.chunk.js.LICENSE.txt": "/quickstarts-dashboard-library/static/js/2.b5eea9f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5cf4fcaa.js",
+    "static/js/runtime-main.1b11a42f.js",
     "static/css/2.5ed022f9.chunk.css",
-    "static/js/2.0dc5cf47.chunk.js",
+    "static/js/2.b5eea9f3.chunk.js",
     "static/css/main.12df2089.chunk.css",
-    "static/js/main.9994bff3.chunk.js"
+    "static/js/main.d80babd7.chunk.js"
   ]
 }
