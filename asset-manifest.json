@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/quickstarts-alert-library/static/css/main.12df2089.chunk.css",
+    "main.js": "/quickstarts-alert-library/static/js/main.9994bff3.chunk.js",
+    "main.js.map": "/quickstarts-alert-library/static/js/main.9994bff3.chunk.js.map",
+    "runtime-main.js": "/quickstarts-alert-library/static/js/runtime-main.5cf4fcaa.js",
+    "runtime-main.js.map": "/quickstarts-alert-library/static/js/runtime-main.5cf4fcaa.js.map",
+    "static/css/2.5ed022f9.chunk.css": "/quickstarts-alert-library/static/css/2.5ed022f9.chunk.css",
+    "static/js/2.0dc5cf47.chunk.js": "/quickstarts-alert-library/static/js/2.0dc5cf47.chunk.js",
+    "static/js/2.0dc5cf47.chunk.js.map": "/quickstarts-alert-library/static/js/2.0dc5cf47.chunk.js.map",
+    "index.html": "/quickstarts-alert-library/index.html",
+    "precache-manifest.75eea4ea6fd02821528e7ec9eb4b0c78.js": "/quickstarts-alert-library/precache-manifest.75eea4ea6fd02821528e7ec9eb4b0c78.js",
+    "service-worker.js": "/quickstarts-alert-library/service-worker.js",
+    "static/css/2.5ed022f9.chunk.css.map": "/quickstarts-alert-library/static/css/2.5ed022f9.chunk.css.map",
+    "static/css/main.12df2089.chunk.css.map": "/quickstarts-alert-library/static/css/main.12df2089.chunk.css.map",
+    "static/js/2.0dc5cf47.chunk.js.LICENSE.txt": "/quickstarts-alert-library/static/js/2.0dc5cf47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cf4fcaa.js",
+    "static/css/2.5ed022f9.chunk.css",
+    "static/js/2.0dc5cf47.chunk.js",
+    "static/css/main.12df2089.chunk.css",
+    "static/js/main.9994bff3.chunk.js"
+  ]
+}
