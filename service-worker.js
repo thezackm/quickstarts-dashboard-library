@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quickstarts-dashboard-library/precache-manifest.5345e95d12544af495e548538ec8286c.js"
+  "/quickstarts-dashboard-library/precache-manifest.e8394c4b65fbe8244146f1a2faf24ade.js"
 );
 
 self.addEventListener('message', (event) => {
