@@ -15,7 +15,7 @@
                         "width": 4
                     },
                     "rawConfiguration": {
-                        "text": ":::beyond\n![Amazon S3 Icon](https://integrations.nr-assets.net/providers/aws_s3.png) **AWS S3** \n\nAmazon Simple Storage Service is storage for the Internet. It is designed to make web-scale computing easier for developers.\n\n:::"
+                        "text": "![Amazon S3 Icon](https://integrations.nr-assets.net/providers/aws_s3.png) **AWS S3** \n\nAmazon Simple Storage Service is storage for the Internet. It is designed to make web-scale computing easier for developers.\n\n"
                     }
                 },
                 {
